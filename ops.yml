@@ -1,0 +1,12 @@
+version: "1"
+commands:
+  - name: memes:l337
+    description: Meme Generator
+    public: true
+    sourceCodeURL: "https://github.com/CalHoll/memes"
+    run: node /ops/index.js
+    sdk: "2"
+    mountCwd: false
+    mountHome: false
+    help:
+      usage: "This Op will complete you."

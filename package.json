@@ -1,0 +1,17 @@
+{
+  "name": "tour",
+  "version": "0.0.1",
+  "description": "Slack Tour Op",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@cto.ai/sdk": "^2.1.1",
+    "dotenv": "^8.2.0",
+    "node-fetch": "^2.6.0"
+  }
+}
