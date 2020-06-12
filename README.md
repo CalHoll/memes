@@ -27,6 +27,6 @@ To run this Op from the public registry in Slack:
 /ops run dank/memes
 ```
 
-If you add this Op or publish it into your team you can drop the '@dank/' team prefix!
+If you add this Op or publish it into your team you can drop the 'dank/' team prefix!
 
 ## Have fun!
